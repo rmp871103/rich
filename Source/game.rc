@@ -142,7 +142,19 @@ IDB_fourteen            BITMAP                  "..\\res\\14.bmp"
 
 IDB_dot                 BITMAP                  "..\\res\\dot.bmp"
 
-IDB_BITMAP5             BITMAP                  "..\RES\\dot.bmp"
+IDB_BITMAP5             BITMAP                  "..\\RES\\dot.bmp"
+
+IDB_DICEONE             BITMAP                  "C:\\project\\rich\\RES\\dice1.bmp"
+
+IDB_DICETWO             BITMAP                  "C:\\project\\rich\\RES\\dice2.bmp"
+
+IDB_DICETHREE           BITMAP                  "C:\\project\\rich\\RES\\dice3.bmp"
+
+IDB_DICEFOUR            BITMAP                  "C:\\project\\rich\\RES\\dice4.bmp"
+
+IDB_DICEFIVE            BITMAP                  "C:\\project\\rich\\RES\\dice5.bmp"
+
+IDB_DICESIX             BITMAP                  "C:\\project\\rich\\RES\\dice6.bmp"
 
 
 /////////////////////////////////////////////////////////////////////////////

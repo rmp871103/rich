@@ -129,6 +129,9 @@
     <ClCompile Include="Source\Role.cpp">
       <Filter>MyGame</Filter>
     </ClCompile>
+    <ClCompile Include="Source\Dice.cpp">
+      <Filter>MyGame</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Source\audio.h">
@@ -165,6 +168,9 @@
       <Filter>MyGame</Filter>
     </ClInclude>
     <ClInclude Include="Source\Role.h">
+      <Filter>MyGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Dice.h">
       <Filter>MyGame</Filter>
     </ClInclude>
   </ItemGroup>
@@ -325,6 +331,27 @@
       <Filter>Resource Files</Filter>
     </Image>
     <Image Include="res\14.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\dice1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bitmap7.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\dice2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\dice3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\dice4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\dice5.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\dice6.bmp">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>
